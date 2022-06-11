@@ -1,2 +1,0 @@
-# MPJSLGTIOS
-Zepodesz
