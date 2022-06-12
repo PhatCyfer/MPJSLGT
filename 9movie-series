@@ -1,9 +1,9 @@
 {
-name:"หนัง&ซีรี่ย์",
-author:"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"name":"หนัง&ซีรี่ย์",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2I8090DN-CzWfCX5DbFWtcH0fYPsuj62ug&usqp=CAU",
 
-groups:[
+"groups":[
 
 {
 "name":"จักรวาล marvel เรียงตาม timeline",
