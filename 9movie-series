@@ -1,57 +1,57 @@
 {
-"name":"หนัง&ซีรี่ย์",
-"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+name:"หนัง&ซีรี่ย์",
+author:"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRz2I8090DN-CzWfCX5DbFWtcH0fYPsuj62ug&usqp=CAU",
 
-"groups":[
+groups:[
 
 {
-"name":"จักรวาล marvel เรียงตาม timeline",
-"image":"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/10Marvel-Timeline",
+name:"จักรวาล marvel เรียงตาม timeline",
+image:"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/10Marvel-Timeline",
 "import": false
 },
 {
-"name":"แฮร์รี่ พอตเตอร์",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9_Y8RCi5t_Rwwr5DZ-DuSdzKGMcjK5zjGQ&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/11HarryPotter",
+name:"แฮร์รี่ พอตเตอร์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQB9_Y8RCi5t_Rwwr5DZ-DuSdzKGMcjK5zjGQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/11HarryPotter",
 "import": false
 },
 {
-"name":"หนังเอเชีย",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20401-600",
+name:"หนังเอเชีย",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20401-600",
 "import": false
 },
 {
-"name":"ซีรี่ย์ยุโรป",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20601-800",
+name:"ซีรี่ย์ยุโรป",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20601-800",
 "import": false
 },
 {
-"name":"ซีรี่ย์เกาหลี",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20801-1000",
+name:"ซีรี่ย์เกาหลี",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%20801-1000",
 "import": false
 },
 {
-"name":"ซีรี่ย์จีน",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%201001%2B",
+name:"ซีรี่ย์จีน",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRP_16E-B3LhiPcDCCHaIYn49juaikJVvbfBA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B8%95%E0%B8%AD%E0%B8%99%E0%B8%97%E0%B8%B5%E0%B9%88%201001%2B",
 "import": false
 },
 {
-"name":"หนังอินเดีย",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbioK_hxqQ1awfRSFHhaCGOZ0Ptr8NnRU4zg&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88",
+name:"หนังอินเดีย",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbioK_hxqQ1awfRSFHhaCGOZ0Ptr8NnRU4zg&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88",
 "import": false
 },
 {
-"name":"รออัพเดต",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbioK_hxqQ1awfRSFHhaCGOZ0Ptr8NnRU4zg&usqp=CAU",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88",
+name:"รออัพเดต",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSbioK_hxqQ1awfRSFHhaCGOZ0Ptr8NnRU4zg&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/%E0%B9%82%E0%B8%84%E0%B8%99%E0%B8%B1%E0%B8%99%20%E0%B9%80%E0%B8%94%E0%B8%AD%E0%B8%B0%E0%B8%A1%E0%B8%B9%E0%B8%9F%E0%B8%A7%E0%B8%B5%E0%B9%88",
 "import": false
-
-]},
-]},
+},
+]
+}
