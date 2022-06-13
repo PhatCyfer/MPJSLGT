@@ -47,5 +47,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcROkEXt3Antb0RE4QUYq
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/8Slime-Datta-ken",
 "import": false
 },
+{
+name:"Fairy Tail แฟรี่เทล",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQSAqjaJJb7cnqrF9eMmyNbYyrDiQJQn4aLOQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/13FairyTail",
+"import": false
+},
 ]
 }
