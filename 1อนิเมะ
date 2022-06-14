@@ -53,5 +53,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTw4liHIWrEyv54K0Num
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/13FairyTail",
 "import": false
 },
+{
+name:"Doraemon โดเรม่อน เดอะมูฟวี่",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTOKcUsYWsjKyNUyFxyo4n7Iey1Zfu8OeBAvQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/14Doraemon",
+"import": false
+},
 ]
 }
