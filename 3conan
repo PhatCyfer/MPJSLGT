@@ -1,6 +1,6 @@
 {
 "name":"โคนัน อยู่ที่ไหนคนตายห่าที่นั้น",
-"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ (ตอนล่าสุด 1102)",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ (ตอนล่าสุด 1103)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
 
 
@@ -84,6 +84,9 @@ stations:[
 {"name":"โคนัน 24 กระสุนสีเพลิง (2021)","image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTtJUxu8NlvhGc70TRcRqS0MFXufWHq3ORYsA&usqp=CAU",
 "url": "https://www.animetaro.com/embed/49861/",
 "playInNatPlayer": "true","referer": "https://www.animetaro.com/"},
+{"name":"โคนัน 25 ผ่าปริศนาปมมรณะ (2021)","image":"https://www.animetobi.com/upload/333c34c76f6a9eeffa8f7d140cac81c9.jpg?v=1",
+"url": "https://www.animetobi.com/embed/43831/",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 ]
 },
 
@@ -3431,6 +3434,9 @@ stations:[
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"Conan โคนัน ตอนที่ 1102 ซับไทย ปาร์ตี้วันเกิดลงทัณฑ์สวรรค์ (ตอนแรก) ", "image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
 "url": "https://www.animetobi.com/embed/52335/",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"Conan โคนัน ตอนที่ 1103 ซับไทย ปาร์ตี้วันเกิดลงทัณฑ์สวรรค์ (ตอนจบ) ", "image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
+"url": "https://www.animetobi.com/embed/52457/",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 
 ]},
