@@ -59,5 +59,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRx89lPFXE21yBYH4otJ
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/14Douluo-Dalu-Soul-Land",
 "import": false
 },
+{
+name:"Sword Art Online ซอร์ดอาร์ตออนไลน์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLM1KG9QdD2h9h7X8KVVXwR62wIrkmFz9GA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/15Sword-Art-Online",
+"import": false
+},
 ]
 }
