@@ -1,4 +1,5 @@
-{"name":"Sword Art Online ซอร์ดอาร์ตออนไลน์",
+{
+"name":"Sword Art Online ซอร์ดอาร์ตออนไลน์",
 "author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
 "url":"Kuy",
@@ -247,7 +248,6 @@ stations:[
 "image":"https://www.animetobi.com/upload/83b944450ee4f72fbcbdc8eed230b9de.jpg?v=1",
 "url":"https://www.animetobi.com/embed/1729/",
 "playInNatPlayer":"true","referer":"https://www.animetobi.com/"},
-
 
 
 ]},
