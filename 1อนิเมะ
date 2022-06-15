@@ -71,5 +71,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQxLM1KG9QdD2h9h7X8K
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/15SAO",
 "import": false
 },
+{
+name:"บ้านนี้ต้องมีเหมียว Chi's Sweet Home - Atarashii Ouchi",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhBji-O8J4dXO-IMv_Cf7gWm4stfLO_UUwQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/17chi-sweet-home",
+"import": false
+},
 ]
 }
