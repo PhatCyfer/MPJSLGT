@@ -77,5 +77,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhBji-O8J4dXO-IMv_
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/17chi-sweet-home",
 "import": false
 },
+{
+name:"Doraemon The Movie โดเรม่อน เดอะมูฟวี่",
+image:"https://i.pinimg.com/originals/03/e5/6a/03e56a440cb8616dc545a2e100c851a2.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/18Doraemon",
+"import": false
+},
 ]
 }
