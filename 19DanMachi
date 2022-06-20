@@ -1,0 +1,42 @@
+{
+"name":"DanMachi มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+
+"groups":[
+
+{"name":"DanMachi SS1 มันผิดรึไงถ้าใจอยากจะพบรักในดันเจี้ยน ภาค 1",
+"author":"ภาค 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+
+stations:[
+{"name":"DanMachi ตอนที่ 1",
+"info":"เสียง : ซับไทย
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/3tM0bDZ",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 2",
+"info":"เสียง : ซับไทย
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/39Gx4eb",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 3",
+"info":"เสียง : ซับไทย
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/39DkZ9L",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 4",
+"info":"เสียง : ซับไทย
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/3Qrs7Xr",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 5",
+"info":"เสียง : ซับไทย
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/3QyCRD9",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+]
+},
