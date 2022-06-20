@@ -13,34 +13,44 @@
 
 stations:[
 {"name":"DanMachi ตอนที่ 1",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/3tM0bDZ",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"DanMachi ตอนที่ 2",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/39Gx4eb",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"DanMachi ตอนที่ 3",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/39DkZ9L",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"DanMachi ตอนที่ 4",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/3Qrs7Xr",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"DanMachi ตอนที่ 5",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/3QyCRD9",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 {"name":"DanMachi ตอนที่ 6",
-"info":"เสียง : ซับไทย
+"info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
 "url": "https://bit.ly/39DlEIh",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 7",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/3OhxBSG",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+{"name":"DanMachi ตอนที่ 8",
+"info":"เสียง : ซับไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTJKx5B9f92i5MhVMcVEUigN63PQBU74NrWfQ&usqp=CAU",
+"url": "https://bit.ly/3O5z9Q4",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 
 ]},
