@@ -113,7 +113,7 @@ stations:[
 {"name":"DanMachi ตอนที่ 5",
 "info":"เสียง : ซับไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCcQnhYZifj2G6Vsf6Wf27vDU5IVdOqnWsnw&usqp=CAU",
-"url": "https://server1.anime-kame.xyz/hls/APBu94y/file_,720,.mp4.urlset/master.m3u8",
+"url": "https://server1.anime-kame.xyz/hls/APBu94y/file_720.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 
 ]},
