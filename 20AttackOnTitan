@@ -1,0 +1,22 @@
+{
+"name":"Attack on Titan ผ่าพิภพไททัน",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+
+"groups":[
+
+{"name":"ผ่าพิภพไททัน ซีซั่น 1 Attack on Titan Season 1",
+"author":"ภาค 1",
+"image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoSQBkjSvJFf0adOKHPgmT0yXKdtxPeThpg&usqp=CAU",
+
+stations:[
+{"name":"ผ่าพิภพไททัน ตอนที่ 1",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKoSQBkjSvJFf0adOKHPgmT0yXKdtxPeThpg&usqp=CAU",
+"url": "https://server1.anime-kame.xyz/hls/8w27MfD/file_,360,720,1080,.mp4.urlset/master.m3u8",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+]},
+]},
