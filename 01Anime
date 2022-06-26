@@ -95,5 +95,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTLhBji-O8J4dXO-IMv_
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/17chi-sweet-home",
 "import": false
 },
+{
+name:"มหาเวทย์ผนึกมาร Jujutsu Kaisen",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQNMX8Mi9IMZy8PoRLXk60R-UyXxIHh7LkFtQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/21Jujutsu-Kaisen",
+"import": false
+},
 ]
 }
