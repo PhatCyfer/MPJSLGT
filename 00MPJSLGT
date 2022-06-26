@@ -2,7 +2,7 @@
 "name": "มาเป็นโจรสลัดกันเถอะ",
 "author": "PhatCyfer",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/BetaTestAndroid",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/00MPJSLGT",
 "groups": [
   
  
@@ -10,13 +10,13 @@
 {
 "name": "อนิเมะ",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTIPKSDJiAceoMQ-NDlYlWtf_udeVD6543BWQ&usqp=CAU",
-"url": "https://bit.ly/3mG6pkM",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/01Anime",
 "import": false
 },
 {
 "name": "หนัง&ซีรี่ย์",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQL1bs5Pdsklf2D4A2GJxx8Rvh99QpmOow6xg&usqp=CAU",
-"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/9movie-series",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/09movie-series",
 "import": false
 },
 {
