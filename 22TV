@@ -221,7 +221,10 @@ stations:[
 stations:[
 {"name":"HBO",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS0qGExFqdU32p4rCwxHQV1laSKJgcm_iC4MA&usqp=CAU",
-"url":"http://ip2121.com:8081/web1/hbo/playlist.m3u8"},
+"url":"https://www.doofootball.com/dootv/live/hbohd#main_dootv"},
+{"name":"HBO HITS",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
+"url":"https://r3-sn-5fo-c37ed56.googleuservideo.com/doofootball_r7/hd-hbo-hit/playlist.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9Ni8yNi8yMDIyIDg6NTQ6MDUgUE0maGFzaF92YWx1ZT1EMTlxSm80SzRBS0NJcHd6WGdVeXlBPT0mdmFsaWRtaW51dGVzPTEmc3RybV9sZW49MjUmaWQ9ODA5MDY4"},
 {"name":"HBO HITS",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQZjX9N41S1fWY3e2kF2ErUSTZYDWo-uKH0Cg&usqp=CAU",
 "url":"https://www.doofootball.com/dootv/live/hbohit#main_dootv",
