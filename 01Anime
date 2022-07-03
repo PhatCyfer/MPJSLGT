@@ -107,5 +107,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSak7OJZf0SPMWc9WP06
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/23Tensai-Ouji-no-Akaji-Kokka-Saiseijutsu",
 "import": false
 },
+{
+name:"Makoto Shinkai",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTAei_1BbDx_XVqNErmnEujapCshte4tgK8lA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/27Makoto-Shinkai",
+"import": false
+},
 ]
 }
