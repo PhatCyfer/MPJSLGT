@@ -7,16 +7,28 @@
 
 "stations":[
 
-{"name":"Kimi no Na wa (Your Name) หลับตาฝันถึงชื่อเธอ",
+{"name":"YOUR NAME (Kimi no Na wa) หลับตาฝันถึงชื่อเธอ",
 "info":"เสียง : พากย์ไทย",
 "image":"https://upload.wikimedia.org/wikipedia/th/5/5d/Your_Name_poster.jpg",
 "url":"https://ok6-9.vkuser.net/?expires=1656919389892&srcIp=1.47.155.102&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.136&type=5&sig=CKHHxRxmto0&ct=0&urls=45.136.21.74%3B185.226.53.20&clientType=0&zs=43&id=438753954450",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 
-{"name":"Kimi no Na wa (Your Name) หลับตาฝันถึงชื่อเธอ",
+{"name":"YOUR NAME (Kimi no Na wa) หลับตาฝันถึงชื่อเธอ",
 "info":"เสียง : ซับไทย",
 "image":"https://upload.wikimedia.org/wikipedia/th/5/5d/Your_Name_poster.jpg",
-"url":"https://vd419.mycdn.me/?expires=1656919745726&srcIp=1.47.155.102&pr=10&srcAg=CHROME_ANDROID&ms=45.136.20.56&type=5&sig=cbTY9a7uWlw&ct=0&urls=45.136.21.54&clientType=0&zs=43&id=438509767314",
+"url":"https://ok6-1.vkuser.net/?expires=1656921880171&srcIp=1.47.155.102&pr=10&srcAg=CHROME_ANDROID&ms=95.142.206.128&type=5&sig=B2PKDzDKqOM&ct=0&urls=45.136.20.56%3B45.136.21.54&clientType=0&zs=43&id=438509767314",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"WEATHERING WITH YOU (Tenki no Ko) ฤดูฝัน ฉันมีเธอ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://www.dropbox.com/s/v50553ut0xfsqo2/_.jpeg?dl=1",
+"url":"https://anime2.tonytonychopper.com/playlist/f3d58f964e9cb137fd9072e1053d13fe.m3u8?s=1",
+"playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
+
+{"name":"WEATHERING WITH YOU (Tenki no Ko) ฤดูฝัน ฉันมีเธอ",
+"info":"เสียง : ซับไทย",
+"image":"https://m.media-amazon.com/images/I/71rgiqKm5ZL._AC_SL1410_.jpg",
+"url":"https://anime2.tonytonychopper.com/playlist/f888a14067ba785698f74233b914e227.m3u8?s=4",
 "playInNatPlayer": "true","referer": "https://www.animetobi.com/"},
 
 ]
