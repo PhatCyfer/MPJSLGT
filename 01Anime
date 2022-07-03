@@ -119,5 +119,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSq3mn1QoNoncKA-3ykN
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/28Log-Horizon",
 "import": false
 },
+{
+name:"My Hero Academia มายฮีโร่ อคาเดเมีย",
+image:"https://www.metalbridges.com/wp-content/uploads/2016/05/My-Hero-Academia-2.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/29My-Hero",
+"import": false
+},
 ]
 }
