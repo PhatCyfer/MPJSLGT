@@ -6,10 +6,17 @@
 "groups":[
 
 {
-"name":"The Walking Dead",
+"name":"The Walking Dead ล่าสยองกองทัพผีดิบ",
 "info":"เสียง : พากย์ไทย",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwHsX1_Onz9mgAJV4sZ1tOTop9MT5bTI9Pw&usqp=CAU",
 "url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/24The-Walking-Dead",
+"import": false
+},
+{
+"name":"Prison Break แผนลับแหกคุกนรก",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwHsX1_Onz9mgAJV4sZ1tOTop9MT5bTI9Pw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/30Prison-Break",
 "import": false
 },
 ]
