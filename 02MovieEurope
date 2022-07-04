@@ -1,0 +1,23 @@
+{"name":"หนัง ฝรั่ง",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+"groups":[
+
+{
+"name":"Harry Potter แฮร์รี่ พอตเตอร์",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwHsX1_Onz9mgAJV4sZ1tOTop9MT5bTI9Pw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/24The-Walking-Dead",
+"import": false
+},
+{
+"name":"The Walking Dead ล่าสยองกองทัพผีดิบ",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwHsX1_Onz9mgAJV4sZ1tOTop9MT5bTI9Pw&usqp=CAU",
+"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/24The-Walking-Dead",
+"import": false
+},
+]
+}
