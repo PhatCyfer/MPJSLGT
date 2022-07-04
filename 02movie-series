@@ -26,13 +26,13 @@ url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/12Fantastic-Bea
 {
 name:"ซีรี่ส์ยุโรป",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLa-ouBT9hgWoySdr2po2eCNckEwcsF606Q&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/25SeriesEurope",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/05SeriesEurope",
 "import": false
 },
 {
 name:"ซีรี่ส์เกาหลี",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_RlfNcJ_oxUZWgd93jR8G-qaplrCFOKNWg&usqp=CAU",
-url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/31SeriesKorea",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/06SeriesKorea",
 "import": false
 },
 {
