@@ -6,6 +6,12 @@ author:"กลุ่ม : มาเป็นโจรสลัดกันเถ
 groups:[
 
 {
+name:"หนังยุโรป",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwO2PKD2hYKnnCWg-CBEsDvnC4uAIy_o6Rw&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02MovieEurope",
+"import": false
+},
+{
 name:"ซีรี่ส์ยุโรป",
 image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLa-ouBT9hgWoySdr2po2eCNckEwcsF606Q&usqp=CAU",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesEurope",
