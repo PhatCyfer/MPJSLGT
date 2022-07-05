@@ -1,0 +1,15 @@
+{"name":"หนัง ไทย",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+"groups":[
+
+{
+name:"จักรวาล Marvel เรียงตาม Timeline",
+image:"https://cdn.majorcineplex.com/uploads/content/18424/cover_18424.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/10Marvel-Timeline",
+"import": false
+},
+]
+}
