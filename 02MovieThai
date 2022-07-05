@@ -3,14 +3,13 @@
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
 "url":"Kuy",
 
-"group":[
+"groups":[
 
 {"name":"Low Season สุขสันต์วันโสด",
 "author":"เสียง : พากย์ไทย",
 "image":"https://www.dropbox.com/s/rzl7odxx82amve8/lowseason.jpg?dl=1",
-"url":"kuy",
 
-station:[
+stations:[
 {"name":"Low Season สุขสันต์วันโสด",
 "info":"เสียง : พากย์ไทย",
 "image":"https://www.dropbox.com/s/rzl7odxx82amve8/lowseason.jpg?dl=1",
