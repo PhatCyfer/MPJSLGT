@@ -31,6 +31,19 @@ stations:[
 ]
 },
 
+{"name":"โหมโรง The Overture 2004",
+"author":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-KcAPDTcmm7ARh6BGOsnXkFv4-B2diFUrQ&usqp=CAU",
+
+stations:[
+{"name":"โหมโรง The Overture 2004",
+"info":"เสียง : พากย์ไทย",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-KcAPDTcmm7ARh6BGOsnXkFv4-B2diFUrQ&usqp=CAU",
+"url":"https://p2p-ns1.sage.stream/hls/hom-rong-2004/index.m3u8",
+"playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
+]
+},
+
 {"name":"รักมันใหญ่มาก เลิฟ จุลินทรีย์ LOVE JULINSEE 2011",
 "author":"เสียง : พากย์ไทย",
 "image":"https://www.dropbox.com/s/nduozfnbk3kkojg/love%20big.jpg?dl=1",
@@ -39,19 +52,6 @@ stations:[
 {"name":"รักมันใหญ่มาก เลิฟ จุลินทรีย์ LOVE JULINSEE",
 "info":"เสียง : พากย์ไทย",
 "image":"https://www.dropbox.com/s/nduozfnbk3kkojg/love%20big.jpg?dl=1",
-"url":"https://p2p-ns1.sage.stream/hls/hom-rong-2004/index.m3u8",
-"playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
-]
-},
-
-{"name":"โหมโรง The Overture 2004",
-"author":"เสียง : พากย์ไทย",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-KcAPDTcmm7ARh6BGOsnXkFv4-B2diFUrQ&usqp=CAU",
-
-stations:[
-{"name":"โหมโรง The Overture",
-"info":"เสียง : พากย์ไทย",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTc-KcAPDTcmm7ARh6BGOsnXkFv4-B2diFUrQ&usqp=CAU",
 "url":"https://xxx.77player.xyz/ioshls/0385ba0c603d168ac04d20918da51333/0385ba0c603d168ac04d20918da51333.m3u8",
 "playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
 
