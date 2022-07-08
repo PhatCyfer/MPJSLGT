@@ -26,6 +26,12 @@
 "import": false
 },
 {
+"name": "Radio Online",
+"image": "https://i.pinimg.com/originals/88/94/d8/8894d8d8f5e3f8eff0cc3de07e7af162.gif",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/03Radio",
+"import": false
+},
+{
 "name": "ขอบคุณโดเนท",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTNw-gFiyH2pkJvQxfVu5Z-Y7wSgOb-u4Z0NA&usqp=CAU",
 "url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/04thankyou",
