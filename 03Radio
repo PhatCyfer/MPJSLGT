@@ -1,0 +1,32 @@
+{"name":"วิทยุ ออนไลน์",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+
+"stations":[
+
+{"name":"JS 100 Radio",
+"info":"วิทยุ ออนไลน์",
+"image":"https://static.mytuner.mobi/media/radios-150px/TxRQrBB7gg.jpg",
+"url":"http://live11.netdesignhost.com:1935/pacificlive/pacificlive/playlist.m3u8"},
+{"name":"เพลงลูกทุ่ง ล้านนาเรดิโอ",
+"info":"วิทยุ ออนไลน์",
+"image":"https://static.mytuner.mobi/media/radios-150px/japcrdy9nsfm.png",
+"url":"http://43.229.135.187:8000/;stream.mp3"},
+{"name":"Huahin Radio Thailand",
+"info":"วิทยุ ออนไลน์",
+"image":"https://static.mytuner.mobi/media/radios-150px/ddqtw2szlcdc.png",
+"url":"https://inter1.plathong.net/7008/;stream.mp3"},
+{"name":"103 Like FM",
+"info":"วิทยุ ออนไลน์",
+"image":"https://static.mytuner.mobi/media/radios-150px/gLFBxhmDEk.jpg",
+"url":"http://103likefm.plathong.net:7064/;stream.mp3"},
+{"name":"MUN FM",
+"info":"วิทยุ ออนไลน์",
+"image":"https://static.mytuner.mobi/media/radios-150px/N96spp6XLf.png",
+"url":"http://radio2.thzhost.com:4018/;stream.mp3"},
+
+]},
+]},
+
