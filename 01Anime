@@ -131,5 +131,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT24bSHwVxIh9AMHn-EM
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/32Mushoku-Tensei",
 "import": false
 },
+{
+name:"Fullmetal Alchemist : Brotherhood แขนกลคนแปรธาตุ",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRIXdqQcBU5zpgZ6cobiJHrOsIq-Lt97XjlCw&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/33Fullmetal-Alchemist",
+"import": false
+},
 ]
 }
