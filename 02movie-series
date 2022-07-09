@@ -7,32 +7,32 @@ groups:[
 
 {
 name:"หนังไทย",
-image:"https://image.bestreview.asia/wp-content/uploads/2021/04/thai-movie.jpg",
+image:"https://i.gifer.com/X1rg.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02MovieThai",
 "import": false
 },
 {
 name:"หนังยุโรป",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSpwO2PKD2hYKnnCWg-CBEsDvnC4uAIy_o6Rw&usqp=CAU",
+image:"https://thumbs.gfycat.com/SoreSeveralBackswimmer-size_restricted.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02MovieEurope",
 "import": false
 },
 {
 name:"ซีรี่ส์ยุโรป",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCLa-ouBT9hgWoySdr2po2eCNckEwcsF606Q&usqp=CAU",
+image:"https://thumbs.gfycat.com/AgedBossyGraysquirrel-size_restricted.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesEurope",
 "import": false
 },
 {
 name:"ซีรี่ส์เกาหลี",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3_RlfNcJ_oxUZWgd93jR8G-qaplrCFOKNWg&usqp=CAU",
+image:"https://i.gifer.com/P9j6.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesKorea",
 "import": false
 },
 {
 name:"ซีรี่ส์จีน",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRAh5xWIrtZHPTEZU0HLw6hx0cOoxHXAcWuMg&usqp=CAU",
-url:"kuy",
+image:"https://c.tenor.com/EP1xZhc5gYYAAAAd/%E7%A6%8F-liondance.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/02SeriesChina",
 "import": false
 },
 {
