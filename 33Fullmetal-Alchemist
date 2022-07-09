@@ -341,7 +341,7 @@ stations:[
 {"name":"Fullmetal Alchemist The Movie The Sacred Star of Milos",
 "info":"ตอนที่ : เดอะมูฟวี่ พากย์ไทย",
 "image":"https://m.media-amazon.com/images/M/MV5BMTY2OTY4MDk4NF5BMl5BanBnXkFtZTcwMzA0NzExNw@@._V1_.jpg",
-"url":"https://server1.anime-kame.xyz/hls/UbhsZe9/file_,1080,.mp4.urlset/master.m3u8",
+"url":"https://server1.anime-kame.xyz/hls/UbhsZe9/file_1080.mp4/index-v1-a1.m3u8",
 "playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
 
 ]},
