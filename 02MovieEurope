@@ -1,4 +1,4 @@
-{"name":"หนัง ฝรั่ง",
+{"name":"หนัง ยุโรป",
 "author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
 "url":"Kuy",
@@ -27,6 +27,12 @@ url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGTIOS/main/12Fantastic-Bea
 name:"Transformers ทรานส์ฟอร์มเมอร์ส",
 image:"https://thumbs.gfycat.com/ClassicBriefGossamerwingedbutterfly-size_restricted.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/40Transformers",
+"import": false
+},
+{
+name:"The Fast and the Furious เร็ว..แรงทะลุนรก",
+image:"https://c.tenor.com/5LUUChut1wYAAAAC/fast-and-furious-the-fast-and-the-furious.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/41Fast-and-Furious",
 "import": false
 },
 ]
