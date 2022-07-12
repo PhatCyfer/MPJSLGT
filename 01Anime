@@ -96,6 +96,12 @@ url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/27Makoto-Shinkai",
 "import": false
 },
 {
+name:"Studio Ghibli",
+image:"https://25.media.tumblr.com/93a036773d2513e38366e68ef2f0e7fe/tumblr_msvaxiAV6M1rnvc1co1_500.gif",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/49Studio-Ghibli",
+"import": false
+},
+{
 name:"Log Horizon รวมพลคนติดอยู่ในเกมส์",
 image:"http://2.bp.blogspot.com/-9ZeCy_n97wc/VDXsYa6IRiI/AAAAAAAAA8s/bNrKMIPrX58/s1600/10%2BSecond%2BAnime%2B-%2BLog%2BHorizon%2B2%2B-%2BFall%2B2014.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/28Log-Horizon",
