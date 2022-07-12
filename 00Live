@@ -6,9 +6,27 @@
 "stations":[
 
 {"name":"AIS PLAY THE MATCH",
-"info":"12/07/65 20:00น.",
+"info":"พากย์ไทย 20:00น.",
 "image":"https://thestandard.co/wp-content/uploads/2022/05/IMG-.jpg",
 "url":"https://www.doofootball.com/live/streaming/baygonhero1/120701",
+"playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
+
+{"name":"AIS PLAY THE MATCH",
+"info":"พากย์ไทย 20:00น.",
+"image":"https://thestandard.co/wp-content/uploads/2022/05/IMG-.jpg",
+"url":"https://7mdooball.com/live/channel/baygonhero1",
+"playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
+
+{"name":"AIS PLAY THE MATCH",
+"info":"พากย์อังกฤษ 20:00น.",
+"image":"https://thestandard.co/wp-content/uploads/2022/05/IMG-.jpg",
+"url":"https://streaming.livescorethai.net/iptv/uk-mutv.stream/chunks.m3u8",
+"playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
+
+{"name":"AIS PLAY THE MATCH",
+"info":"พากย์อังกฤษ 20:00น.",
+"image":"https://thestandard.co/wp-content/uploads/2022/05/IMG-.jpg",
+"url":"http://31.220.3.170/play/live.php?mac=00:1a:79:e1:c8:6c&stream=56381&extension=ts&play_token=8U5fPXnWw4",
 "playInNatPlayer": "true","referer": "https://movieshdfree.com/"},
 
 ]
