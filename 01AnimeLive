@@ -41,5 +41,11 @@ image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXQQiHedyFD8cyWnnc7
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/52Black-Summoner",
 "import": false
 },
+{
+name:"ยอดคุณน้าจากต่างโลก Isekai Ojisan",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQOxGVZz56LFYI99QmtuXirARyLGmzC8JC3fA&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/53Isekai-Ojisan",
+"import": false
+},
 ]
 }
