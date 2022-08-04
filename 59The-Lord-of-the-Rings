@@ -1,0 +1,30 @@
+{"name":"The Lord of the Rings",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+
+"groups":[
+
+{"name":"The Lord of the Rings The Fellowship of the Ring",
+"author":"ภาค 1",
+"image": "https://www.animethailand.com/wp-content/uploads/2019/07/02-402x603.jpg",
+
+stations:[
+{"name":"The Lord of the Rings The Fellowship of the Ring",
+"info":"ภาค : 1 พากย์ไทย",
+"image":"https://www.animethailand.com/wp-content/uploads/2019/07/02-402x603.jpg",
+"url":"https://xxx.77player.xyz/ioshls/ccf96b70e0955de7479723c6904b2a3e/ccf96b70e0955de7479723c6904b2a3e.m3u8",
+"referer":"https://www.037hdmovie.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
+{"name":"The Lord of the Rings The Fellowship of the Ring",
+"info":"ภาค : 1 ซับไทย",
+"image":"https://www.animethailand.com/wp-content/uploads/2019/07/02-402x603.jpg",
+"url":"https://xxx.77player.xyz/ioshls/41f8dc1ef64f26311ff71a97e2b8ecd8/41f8dc1ef64f26311ff71a97e2b8ecd8.m3u8",
+"referer":"https://www.037hdmovie.com/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
+
+]
+},
