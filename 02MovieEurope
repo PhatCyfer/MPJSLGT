@@ -61,8 +61,14 @@ url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/50Vampire-Twilight
 },
 {
 name:"The Lord of the Rings อภินิหารแหวนครองพิภพ",
-image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGCYKm5Kae3ie5PmOEg6Q-kfbG5Fp062X4Tg&usqp=CAU",
+image:"https://i0.wp.com/24.media.tumblr.com/efbdd7bc38ef407dd65ffd2e8de52653/tumblr_moq4lp1vHU1svlirho1_500.gif",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/59The-Lord-of-the-Rings",
+"import": false
+},
+{
+name:"The Hobbit เดอะ ฮอบบิท",
+image:"https://64.media.tumblr.com/e060d444af364038445be25efe14547a/tumblr_nmgvo9ksUA1u7hvlco1_500.gifv",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/60The-Hobbit",
 "import": false
 },
 ]
