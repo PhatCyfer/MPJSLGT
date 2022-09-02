@@ -43,5 +43,11 @@
 "url": "Kuy",
 "import": false
 },
+{
+"name": "กดเพื่ออัพเดตไฟล์",
+"image": "https://i.pinimg.com/originals/2e/b6/db/2eb6dbd4d4776e2182459d0a92fe10dd.gif",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/00MPJSLGT",
+"import": false
+},
 ]
 }
