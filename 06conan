@@ -1,6 +1,6 @@
 {
 "name":"โคนัน อยู่ที่ไหนคนตายห่าที่นั้น",
-"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ (ตอนล่าสุด 1108)",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ (ตอนล่าสุด 1111)",
 "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
 
 
@@ -3610,6 +3610,21 @@ stations:[
 "info":"ตอนที่ : 1108 ซับไทย",
 "image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
 "url":"https://indy.team-indy.club:8443/vid/PBdYMC8Z/video.mp4/playlist.m3u8",
+"playInNatPlayer":"true","referer":"https://www.animetobi.com/"},
+{"name":"Conan โคนัน บททดสอบความกล้าของขบวนการนักสืบเยาวชน",
+"info":"ตอนที่ : 1109 ซับไทย",
+"image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
+"url":"https://kame.team-indy.club:8443/vid/pxeuVNK2/video.mp4/playlist.m3u8",
+"playInNatPlayer":"true","referer":"https://www.animetobi.com/"},
+{"name":"Conan โคนัน เชื้อไฟที่ตกลงในฟาร์ม (ตอนแรก)",
+"info":"ตอนที่ : 1110 ซับไทย",
+"image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
+"url":"https://kame.team-indy.club:8443/vid/cMA2rS3l/video.mp4/playlist.m3u8",
+"playInNatPlayer":"true","referer":"https://www.animetobi.com/"},
+{"name":"Conan โคนัน เชื้อไฟที่ตกลงในฟาร์ม (ตอนจบ)",
+"info":"ตอนที่ : 1111 ซับไทย",
+"image":"https://www.animetobi.com/upload/745a87d7d046d7e4b574e43243100817.jpg?v=1",
+"url":"https://kame.team-indy.club:8443/vid/k4JwsCl6/video.mp4/playlist.m3u8",
 "playInNatPlayer":"true","referer":"https://www.animetobi.com/"},
 
 ]},
