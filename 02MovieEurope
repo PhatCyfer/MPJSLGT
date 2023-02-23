@@ -71,5 +71,11 @@ image:"https://64.media.tumblr.com/e060d444af364038445be25efe14547a/tumblr_nmgvo
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/60The-Hobbit",
 "import": false
 },
+{
+name:"Interstellar อินเตอร์สเตลลาร์ ทะยานดาวกู้โลก",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTYP2V0ZVJluTooSoYRak-EkuxTtIRI9ppDbQ&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/63Interstellar",
+"import": false
+},
 ]
 }
