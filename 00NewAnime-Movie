@@ -1,25 +1,20 @@
-{"name":"อนิเมะ&หนังใหม่ (ประจำสัปดาห์)",
-"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+{name:"อนิเมะ&หนังใหม่ (ประจำสัปดาห์)",
+author:"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
 "image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
-"url":"Kuy",
 
-"stations":[
+groups:[
 
-{"name":"ONEPIECE : วันพีซ (Netflix)",
-"info":"เสียง : พากย์ไทย",
-"image":"https://s.isanook.com/mv/0/ui/29/146659/batch_1.jpg",
-"url":"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/66OnepieceLiveAction",
-"referer":"https://ais-vidnt.com",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop":"true","playInNatPlayer":"true"},
-
-{"name":"โปรดรอ",
-"info":"โปรดรอ",
-"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLazRpRzal7vJZ7sCBUjtH2XgxLWN2UEyrhg&usqp=CAU",
-"url":"kuy",
-"referer":"https://ais-vidnt.com",
-"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
-"desktop":"true","playInNatPlayer":"true"},
-
-]
+{
+name:"ONEPIECE : วันพีซ (Netflix)",
+image:"https://s.isanook.com/mv/0/ui/29/146659/batch_1.jpg",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/66OnepieceLiveAction",
+"import": false
 },
+{
+name:"โปรดรอก่อน",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLazRpRzal7vJZ7sCBUjtH2XgxLWN2UEyrhg&usqp=CAU",
+url:"Kuy",
+"import": false
+},
+]
+}
