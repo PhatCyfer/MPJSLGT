@@ -1,0 +1,25 @@
+{"name":"อนิเมะ&หนังใหม่ (ประจำสัปดาห์)",
+"author":"กลุ่ม : มาเป็นโจรสลัดกันเถอะ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYLHO6DlXbLG5bt3qD6qsAKZC1XJCx6dpLsg&usqp=CAU",
+"url":"Kuy",
+
+"stations":[
+
+{"name":"ONEPIECE : วันพีซ (Netflix)",
+"info":"เสียง : พากย์ไทย",
+"image":"https://thestandard.co/wp-content/uploads/2022/05/IMG-.jpg",
+"url":"https://www.doofootball.com/live/streaming/baygonhero1/120701",
+"referer":"https://ais-vidnt.com",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
+
+{"name":"โปรดรอ",
+"info":"โปรดรอ",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSLazRpRzal7vJZ7sCBUjtH2XgxLWN2UEyrhg&usqp=CAU",
+"url":"kuy",
+"referer":"https://ais-vidnt.com",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
+
+]
+},
