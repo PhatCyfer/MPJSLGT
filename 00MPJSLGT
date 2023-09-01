@@ -20,6 +20,12 @@
 "import": false
 },
 {
+"name": "อนิเมะ&หนังใหม่ (ประจำสัปดาห์)",
+"image": "https://media.tenor.com/QJNoPeq9WmUAAAAC/netflix-intro-netflix.gif",
+"url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/00NewAnime-Movie",
+"import": false
+},
+{
 "name": "TV Online",
 "image": "https://i.pinimg.com/originals/2b/03/45/2b03451fd8e1882905ee4cbc30131263.gif",
 "url": "https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/03TV",
