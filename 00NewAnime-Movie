@@ -5,6 +5,12 @@ author:"กลุ่ม : มาเป็นโจรสลัดกันเถ
 groups:[
 
 {
+name:"ไทบ้านเดอะซีรี่ส์",
+image:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRKA6zhW1ur7dOKkeZFh45Wo-4P4doYhHT60g&usqp=CAU",
+url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/68ThaiBan",
+"import": false
+},
+{
 name:"ONEPIECE : วันพีซ (Netflix)",
 image:"https://s.isanook.com/mv/0/ui/29/146659/batch_1.jpg",
 url:"https://raw.githubusercontent.com/PhatCyfer/MPJSLGT/main/66OnepieceLiveAction",
