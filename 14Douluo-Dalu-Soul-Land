@@ -2864,6 +2864,29 @@ stations:[
 "referer":"https://animeindy.com/watch/",
 "userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
 "desktop":"true","playInNatPlayer":"true"},
+]
+},
+
+{"name":"จอมยุทธ์ภูติถังซาน 2 ซับไทย",
+"author":"PhaTonG",
+"image": "https://anime-indy.com/wp-content/uploads/2023/06/Douluodalu-2.jpg",
+
+stations:[
+{"name":"จอมยุทธ์ภูติถังซาน ตอนที่ 18",
+"info":"ตอน 18 ซับไทย",
+"image":"https://anime-indy.com/wp-content/uploads/2023/06/Douluodalu-2.jpg",
+"url": "https://indy.team-indy.tech:8443/vid/X5j1hee1zE/video.mp4/playlist.m3u8",
+"referer":"https://animeindy.com/watch/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
+
+{"name":"ตอนต่อไป",
+"info":"อัพเดต : วันเสาร์",
+"image":"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQqhBy9uKNioO2SFS1ae2TSNhv3A5jeEVahdg&usqp=CAU",
+"url":"kuy",
+"referer":"https://animeindy.com/watch/",
+"userAgent":"Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/61.0.3163.79 Safari/537.36 Maxthon/5.2.7.3000",
+"desktop":"true","playInNatPlayer":"true"},
 
 
 ]},
